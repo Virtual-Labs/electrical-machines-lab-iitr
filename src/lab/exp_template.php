@@ -35,8 +35,8 @@
   ("images/logo.jpeg" here). All major browsers support the link
   rel="shortcut icon"  tag to associate a small icon with the 
   page -->
-  <link rel="shortcut icon" href="http://deploy.virtual-labs.ac.in/labs/cse09//images/favicon.png"   class="custom">
-
+  <!--link rel="shortcut icon" href="http://deploy.virtual-labs.ac.in/labs/cse09//images/favicon.png"   class="custom"-->
+  <link rel="shortcut icon" href="..images/favicon.ico">
 
   <!-- These are the stylesheets used for the lab. Please don't
   edit them; If you do, you will lose the edits in subsequent 
@@ -152,7 +152,8 @@
 
 		<div id="experiment-article-section-1-icon" class="icon">
 		<!-- Enclose the icon image of your lab -->
-		<img src="http://deploy.virtual-labs.ac.in/labs/cse09//images/introduction.jpg">
+		<!--img src="http://deploy.virtual-labs.ac.in/labs/cse09//images/introduction.jpg"-->
+		<img src="../images/introduction.jpg">
 		</div>	
 		
 		<!-- The heading for the section can be enclosed in a 
